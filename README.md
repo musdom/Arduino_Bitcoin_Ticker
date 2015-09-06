@@ -1,4 +1,4 @@
-# ESP8266_Bitcoin
+# Arduino_Bitcoin_Ticker
 
 Have your ESP8266 monitor the balance in a Bitcoin address using a 3rd party blockchain API, and make something happen (e.g. light a WS2811 LED strip) when a payment is received. 
 
